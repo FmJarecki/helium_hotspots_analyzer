@@ -1,4 +1,4 @@
-from web_scrapping import HeliumWeb, HeliumHotspot
+from web_scrapping.web_scrapping import HeliumWeb, HeliumHotspot
 
 
 if __name__ == '__main__':
